@@ -26,7 +26,7 @@ Role:       SecOps Enthusiast & Cybersecurity Student
 University: Ho Chi Minh City University of Education (HCMUE)
 Location:   Vietnam 🇻🇳
 Goal:       SecOps Engineer & Cybersecurity Specialist
-Motto:      "Secure. Automate. Defend. Monitor."
+Motto:      "Protect - Defend - ATTACK"
 ```
 
 I enjoy exploring how systems operate under the hood, analyzing threat behaviors, automating security workflows, and bridging the gap between software engineering and system defense.
@@ -37,8 +37,8 @@ I enjoy exploring how systems operate under the hood, analyzing threat behaviors
 |---|---|
 | 🛡️ **Focus Areas** | Security Operations (SecOps), System Hardening, Network Security, Incident Analysis |
 | 🚩 **Exploring** | Red Team concepts, CTF challenges, C2 architecture, Cryptographic primitives |
-| 🐧 **Environment** | Linux, WSL Ubuntu, Bash scripting, Git, CLI utilities |
-| ⚙️ **Tooling** | Python, Bash, C++, C#, Java for automation & security scripting |
+| 🐧 **Environment** | Kali Linux, Bash scripting, Git, CLI utilities |
+| ⚙️ **Tooling** | Python, Bash, C++, Java for automation & security scripting |
 | 🐳 **Infrastructure** | Docker, containerization, network routing configurations |
 | 🧠 **Curious About** | App logic → OS internals, low-level execution, network protocols |
 
@@ -60,7 +60,6 @@ I enjoy exploring how systems operate under the hood, analyzing threat behaviors
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MIPS_Assembly-FF6F00?style=for-the-badge&logo=riscv&logoColor=white" />
@@ -68,7 +67,7 @@ I enjoy exploring how systems operate under the hood, analyzing threat behaviors
 ### 🐳 Infrastructure & Dev
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/WSL_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
