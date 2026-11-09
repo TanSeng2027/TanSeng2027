@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:8A2BE2,100:FF1493&height=200&section=header&text=Lữ%20Chiến%20Tấn%20Sang&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=SecOps%20Enthusiast%20%7C%20Cybersecurity%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/TanSeng2027">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+T%E1%BA%A5n+Sang;SecOps+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Student+%F0%9F%94%90;Linux+%26+Automation+Lover+%F0%9F%90%A7;Secure.+Automate.+Defend.+Monitor." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+T%E1%BA%A5n+Sang;SecOps+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Cybersecurity+Student+%F0%9F%94%90;Linux+%26+Automation+Lover+%F0%9F%90%A7;Protect - Defend - ATTACK" alt="Typing SVG" />
 </a>
 
 <p>
@@ -160,7 +160,7 @@ I enjoy exploring how systems operate under the hood, analyzing threat behaviors
 
 > *"Security is not a product, but a process."* — Bruce Schneier
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Secure.+Automate.+Defend.+Monitor.;Keep+Learning%2C+Keep+Hacking+%F0%9F%9A%80;Stay+Curious+%F0%9F%A7%A0" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Protect - Defend - ATTACK;Keep+Learning%2C+Keep+Hacking+%F0%9F%9A%80;Stay+Curious+%F0%9F%A7%A0" alt="Footer Typing" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:8A2BE2,100:00F5FF&height=120&section=footer" width="100%"/>
 
